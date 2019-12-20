@@ -1,8 +1,8 @@
 ---
-title: Full Blog Post Example
-cover: ./image.jpg
+title: 'Coding in Istanbul with Cats'
+cover: ./cat.png
 date: 2019-12-01
-description: All the usual blog post.
+description: Working remotely form coffee shops in Turkey
 tags: ['post']
 ---
 
@@ -76,13 +76,9 @@ _This text will be italic_
   - Item 2a
   - Item 2b
 
-### Images
+### Kitten jumps on my laptop
 
-```md
-![image-in-post](./image-in-post.jpg)
-```
-
-![image-in-post](./image-in-post.jpg)
+![cat-on-laptop](./cat-on-laptop.png)
 
 ### Links
 
