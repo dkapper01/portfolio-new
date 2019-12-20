@@ -14,17 +14,17 @@ module.exports = {
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `twitter`,
-        url: `https://twitter.com/dkapper01`
-      },
-      {
         icon: `github`,
         url: `https://github.com/dkapper01`
       },
       {
-        icon: `node-js`,
+        icon: `linkedin`,
         url: `https://www.linkedin.com/in/kapper/`
-      }
+      },
+      {
+        icon: `twitter`,
+        url: `https://twitter.com/dkapper01`
+      },
     ]
   },
   plugins: [
