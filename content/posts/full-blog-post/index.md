@@ -1,7 +1,7 @@
 ---
 title: 'Coding in Istanbul with Cats'
 cover: ./cat.png
-date: 2019-12-01
+date: 2019-12-20
 description: Working remotely form coffee shops in Turkey
 tags: ['post']
 ---
