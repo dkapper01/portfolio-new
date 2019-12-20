@@ -6,133 +6,32 @@ description: Working remotely form coffee shops in Turkey
 tags: ['post']
 ---
 
-This is an example blog post. All your blog posts should be here: `content/posts`.
+Working remotely has its advantages and disadvantages. However working remotely in Istanbul has its own unique set of advantages explicitly if you like cats.
 
-Websites like Reddit, StackOverflow, and GitHub had millions of people using Markdown. And Markdown started to be used beyond the web, to author books, articles, slide shows, letters, and lecture notes.
+Like many countries Turkey has its fair share of pets living on the streets. It is not uncommon to see a pack of dogs or an independent cat walking through the busy neighborhoods of istanbul.
 
-What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability. As Gruber writes:
+I believe some cats are living their best lives in Istanbul. The cats are free to explore wherever they want. Storefronts are wide open so cats can come inside and take a nap or have some luck human pet them.
 
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
+### Cat on my laptop.
 
-## Frontmatter
-
-Metadata for your Markdown.
-
-In this post it looks like this:
-
-```md
----
-title: Full Blog Post Example
-cover: ./image.jpg
-date: 2019-11-05
-description: All the usual blog post.
-tags: ['post']
----
-```
-
-Read more about this setting here: [github.com/Chronoblog/gatsby-theme-chronoblog#posts](https://github.com/Chronoblog/gatsby-theme-chronoblog#posts)
-
-## Markdown
-
-This post is a `markdown` file and you can do everything in it that allows you to do markdown.
-
-### Headers
-
-```md
-# This is an <h1> tag
-
-## This is an <h2> tag
-
-###### This is an <h6> tag
-```
-
-# This is an `<h1>` tag
-
-## This is an `<h2>` tag
-
-###### This is an `<h6>` tag
-
-### Emphasis
-
-```md
-_This text will be italic_  
-**This text will be bold**
-```
-
-_This text will be italic_  
-**This text will be bold**
-
-### Lists
-
-```md
-- Item 1
-- Item 2
-  - Item 2a
-  - Item 2b
-```
-
-- Item 1
-- Item 2
-  - Item 2a
-  - Item 2b
-
-### Kitten jumps on my laptop
+This cat jumped right on my laptop when I wasn't looking. I didn't get mad I just took a picture. Every time I went to that coffee shop this cat was there.
 
 ![cat-on-laptop](./cat-on-laptop.png)
 
-### Links
+### Mom cat taking care of it's babies
 
-```md
-[github.com/Chronoblog/gatsby-theme-chronoblog](https://github.com/Chronoblog/gatsby-theme-chronoblog)
-```
+When I walked in to this coffee shop the mom cat was feeding it's kittens. After a while the cats started to play. The mom cat plays rough. Everyone walked in pet the cats.
 
-[github.com/Chronoblog/gatsby-theme-chronoblog](https://github.com/Chronoblog/gatsby-theme-chronoblog)
+![cat-with-kittens](./cat-with-kittens.jpg)
 
-### Blockquotes
+### Cat nap in Starbucks
 
-```md
-As Kanye West said:
+Sleeping deeply in the upstairs part of Starbucks
 
-> We're living the future so
-> the present is our past.
-```
+![cat-nap](./cat-nap.jpg)
 
-As Kanye West said:
+### And this cat
 
-> We're living the future so
-> the present is our past.
+Not in a coffee shop but still worth sharing
 
-### Inline code
-
-**`js:`**
-
-```js
-const someFun = (text) => {
-  console.log('some ' + text);
-};
-someFun('text');
-```
-
-**`css:`**
-
-```css
-.thing {
-  font-size: 16px;
-  width: 100%;
-}
-@media screen and (min-width: 40em) {
-  font-size: 20px;
-  width: 50%;
-}
-@media screen and (min-width: 52em) {
-  font-size: 24px;
-}
-```
-
-**`jsx:`**
-
-```jsx
-<Thing fontSize={[16, 20, 24]} width={[1, 1 / 2]} />
-```
-
-What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability.
+![cat-in-store](./cat-in-store.jpg)
