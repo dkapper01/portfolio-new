@@ -9,7 +9,7 @@ module.exports = {
     ogLanguage: `en_US`,
     author: 'Daniel Kapper', // for example - 'Ivan Ganev'
     authorDescription: 'I like to build cool websites and apps', //
-    avatar: '/danielkapper.png',
+    avatar: '/avatar.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
@@ -24,7 +24,7 @@ module.exports = {
       {
         icon: `twitter`,
         url: `https://twitter.com/dkapper01`
-      },
+      }
     ]
   },
   plugins: [
