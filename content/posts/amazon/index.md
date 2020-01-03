@@ -1,6 +1,6 @@
 ---
-title: 'Coding in Istanbul with Cats'
-cover: ./cat.png
+title: 'Exploring the Amazon Rainforest'
+cover: ./amazon-image.JPG
 date: 2019-12-20
 description: Working remotely form coffee shops in Turkey
 tags: ['post', 'travel']

@@ -1,6 +1,6 @@
 ---
 date: 2017-07-26
-tags: ['note', 'podcast']
+tags: ['podcast']
 ---
 
 ### 4.4—Local Entrepreneurs Riding the Health IoT Wave

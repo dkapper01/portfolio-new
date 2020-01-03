@@ -1,9 +1,9 @@
 ---
-title: 'Coding in Istanbul with Cats'
-cover: ./cat.png
+title: 'Working with Styled Components, Tailwind and Gatsby'
+cover: ./tailwind-gatsby-styled.png
 date: 2019-12-20
 description: Working remotely form coffee shops in Turkey
-tags: ['post', 'travel']
+tags: ['post', 'code']
 ---
 
 Working remotely has its advantages and disadvantages. However working remotely in Istanbul has its own unique set of advantages explicitly if you like cats.
@@ -15,23 +15,3 @@ I believe some cats are living their best lives in Istanbul. The cats are free t
 ### Cat on my laptop.
 
 This cat jumped right on my laptop when I wasn't looking. I didn't get mad I just took a picture. Every time I went to that coffee shop this cat was there.
-
-![cat-on-laptop](./cat-on-laptop.png)
-
-### Mom cat taking care of it's babies
-
-When I walked in to this coffee shop the mom cat was feeding it's kittens. After a while the cats started to play. The mom cat plays rough. Everyone walked in pet the cats.
-
-![cat-with-kittens](./cat-with-kittens.jpg)
-
-### Cat nap in Starbucks
-
-Sleeping deeply in the upstairs part of Starbucks
-
-![cat-nap](./cat-nap.jpg)
-
-### And this cat
-
-Not in a coffee shop but still worth sharing
-
-![cat-in-store](./cat-in-store.jpg)

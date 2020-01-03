@@ -3,7 +3,7 @@ title: 'Running Across Continents!'
 cover: ./image.jpg
 date: 2019-12-19
 description: Running to Europe from Asia in an single marathon.
-tags: ['post']
+tags: ['post', 'travel']
 ---
 
 Isanight
